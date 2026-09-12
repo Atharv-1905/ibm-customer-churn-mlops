@@ -5,3 +5,4 @@ __pycache__/
 mlruns/
 mlflow.db
 requirements_backup.txt
+.pytest_cache/
