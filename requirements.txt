@@ -7,3 +7,4 @@ uvicorn
 openpyxl
 mlflow
 pytest
+httpx2
