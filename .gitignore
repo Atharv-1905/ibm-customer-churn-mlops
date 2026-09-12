@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .mlflow/
+mlruns/
+mlflow.db
+requirements_backup.txt
